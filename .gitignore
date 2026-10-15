@@ -1,0 +1,7 @@
+*.o
+scpn_control
+*.log
+*.tmp
+venv/
+__pycache__/
+.DS_Store
